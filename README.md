@@ -1,8 +1,8 @@
-### Hello there 👋
+## Hello there 👋
 
 I'm Gabriel also known as Gavi (or gaaavi on social media). 👨🏻‍💻
 
-### About me
+## About me
 
 - I'm currently working at Athena Bitcoin, Catmedia 💼
 - I'm an apassionate of Artificial Intelligence, biomedical and biogenetics. 🦾
@@ -10,7 +10,7 @@ I'm Gabriel also known as Gavi (or gaaavi on social media). 👨🏻‍💻
 - Fun fact: I like to play handball a‍nd develop mobile apps using Flutter. 🤾🏻‍♂️📱
 - Learning about cryptocurrencies and trading. 📈
 
-### Languages and Tools
+## Languages and Tools
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40">
