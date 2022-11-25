@@ -4,10 +4,10 @@ I'm Gabriel also known as Gavi (or gaaavi on social media). 👨🏻‍💻
 
 ### About me
 
-- I'm currently working at Athena Bitcoin, Catmedia 💼
-- I'm an apassionate of Artificial Intelligence, biomedical and biogenetics. 🦾
+- I'm currently working at Biotical, Catmedia 💼
+- I'm an apassionate of biomedicine and biogenetics. 🦾
 - Student of biomedical engineering at UDB. 🎓
-- Fun fact: I like to play handball a‍nd develop mobile apps using Flutter. 🤾🏻‍♂️📱
+- Fun fact: I like to play handball and develop mobile apps using Flutter. 🤾🏻‍♂️📱
 - Learning about cryptocurrencies and trading. 📈
 
 ### Languages and Tools
